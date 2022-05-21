@@ -1,0 +1,15 @@
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\bin\Debug\net6.0\AppService.Cqrs.Api.deps.json
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\bin\Debug\net6.0\AppService.Cqrs.Api.dll
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\bin\Debug\net6.0\ref\AppService.Cqrs.Api.dll
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\bin\Debug\net6.0\AppService.Cqrs.Api.pdb
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\bin\Debug\net6.0\Domain.Cqrs.Api.dll
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\bin\Debug\net6.0\Domain.Cqrs.Api.pdb
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\obj\Debug\net6.0\AppService.Cqrs.Api.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\obj\Debug\net6.0\AppService.Cqrs.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\obj\Debug\net6.0\AppService.Cqrs.Api.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\obj\Debug\net6.0\AppService.Cqrs.Api.AssemblyInfo.cs
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\obj\Debug\net6.0\AppService.Cqrs.Api.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\obj\Debug\net6.0\AppService.Cqrs.Api.csproj.CopyComplete
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\obj\Debug\net6.0\AppService.Cqrs.Api.dll
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\obj\Debug\net6.0\ref\AppService.Cqrs.Api.dll
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\AppService.Cqrs.Api\obj\Debug\net6.0\AppService.Cqrs.Api.pdb

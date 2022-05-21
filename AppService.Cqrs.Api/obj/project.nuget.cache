@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5k5LQYx08Fzpdcw3crgEk73M8Jg5qry/Ngj9fS/a0mBWjcHo+yyyKZHIxazU/Yx/CgnbU7hVWdHSePtcFpBsxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\AppService.Cqrs.Api\\AppService.Cqrs.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ali\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Ali\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

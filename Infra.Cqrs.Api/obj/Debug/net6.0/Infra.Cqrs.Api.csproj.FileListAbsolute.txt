@@ -1,0 +1,17 @@
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\bin\Debug\net6.0\Infra.Cqrs.Api.deps.json
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\bin\Debug\net6.0\Infra.Cqrs.Api.dll
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\bin\Debug\net6.0\ref\Infra.Cqrs.Api.dll
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\bin\Debug\net6.0\Infra.Cqrs.Api.pdb
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\bin\Debug\net6.0\AppService.Cqrs.Api.dll
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\bin\Debug\net6.0\Domain.Cqrs.Api.dll
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\bin\Debug\net6.0\AppService.Cqrs.Api.pdb
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\bin\Debug\net6.0\Domain.Cqrs.Api.pdb
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\obj\Debug\net6.0\Infra.Cqrs.Api.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\obj\Debug\net6.0\Infra.Cqrs.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\obj\Debug\net6.0\Infra.Cqrs.Api.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\obj\Debug\net6.0\Infra.Cqrs.Api.AssemblyInfo.cs
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\obj\Debug\net6.0\Infra.Cqrs.Api.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\obj\Debug\net6.0\Infra.Cqrs.Api.csproj.CopyComplete
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\obj\Debug\net6.0\Infra.Cqrs.Api.dll
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\obj\Debug\net6.0\ref\Infra.Cqrs.Api.dll
+C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Infra.Cqrs.Api\obj\Debug\net6.0\Infra.Cqrs.Api.pdb

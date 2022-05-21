@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50ff43ed-b032-44ab-a263-0f1e9b178fb7": {
+      "ProjectGuid": "50ff43ed-b032-44ab-a263-0f1e9b178fb7",
+      "DisplayName": "Test.Cqrs.Api",
+      "ColorIndex": 0
+    },
+    "f8c36297-78a4-47e6-ac5d-de90ac4600f5": {
+      "ProjectGuid": "f8c36297-78a4-47e6-ac5d-de90ac4600f5",
+      "DisplayName": "Domain.Cqrs.Api",
+      "ColorIndex": 1
+    },
+    "a10cfa70-c8cb-41a6-a9f4-a172d926a36d": {
+      "ProjectGuid": "a10cfa70-c8cb-41a6-a9f4-a172d926a36d",
+      "DisplayName": "AppService.Cqrs.Api",
+      "ColorIndex": 2
+    },
+    "e3923056-84e8-442a-9b2f-902d2beb7ed7": {
+      "ProjectGuid": "e3923056-84e8-442a-9b2f-902d2beb7ed7",
+      "DisplayName": "Infra.Cqrs.Api",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
