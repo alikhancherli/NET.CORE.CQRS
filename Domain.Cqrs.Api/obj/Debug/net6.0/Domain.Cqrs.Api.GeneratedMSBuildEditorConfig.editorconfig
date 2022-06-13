@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Domain.Cqrs.Api
-build_property.ProjectDir = C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Domain.Cqrs.Api\
+build_property.ProjectDir = C:\Users\admin\Desktop\Projects\Test.Cqrs.Api\Domain.Cqrs.Api\

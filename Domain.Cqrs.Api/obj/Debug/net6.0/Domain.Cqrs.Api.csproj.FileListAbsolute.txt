@@ -9,3 +9,15 @@ C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Domain.Cqrs.Api\obj\Debug\net6.0\Domai
 C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Domain.Cqrs.Api\obj\Debug\net6.0\Domain.Cqrs.Api.dll
 C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Domain.Cqrs.Api\obj\Debug\net6.0\ref\Domain.Cqrs.Api.dll
 C:\Users\Ali\Desktop\Csharp\Test.Cqrs.Api\Domain.Cqrs.Api\obj\Debug\net6.0\Domain.Cqrs.Api.pdb
+C:\Users\admin\Desktop\Projects\Test.Cqrs.Api\Domain.Cqrs.Api\bin\Debug\net6.0\Domain.Cqrs.Api.deps.json
+C:\Users\admin\Desktop\Projects\Test.Cqrs.Api\Domain.Cqrs.Api\bin\Debug\net6.0\Domain.Cqrs.Api.dll
+C:\Users\admin\Desktop\Projects\Test.Cqrs.Api\Domain.Cqrs.Api\bin\Debug\net6.0\Domain.Cqrs.Api.pdb
+C:\Users\admin\Desktop\Projects\Test.Cqrs.Api\Domain.Cqrs.Api\obj\Debug\net6.0\Domain.Cqrs.Api.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Projects\Test.Cqrs.Api\Domain.Cqrs.Api\obj\Debug\net6.0\Domain.Cqrs.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Projects\Test.Cqrs.Api\Domain.Cqrs.Api\obj\Debug\net6.0\Domain.Cqrs.Api.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Projects\Test.Cqrs.Api\Domain.Cqrs.Api\obj\Debug\net6.0\Domain.Cqrs.Api.AssemblyInfo.cs
+C:\Users\admin\Desktop\Projects\Test.Cqrs.Api\Domain.Cqrs.Api\obj\Debug\net6.0\Domain.Cqrs.Api.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projects\Test.Cqrs.Api\Domain.Cqrs.Api\obj\Debug\net6.0\Domain.Cqrs.Api.dll
+C:\Users\admin\Desktop\Projects\Test.Cqrs.Api\Domain.Cqrs.Api\obj\Debug\net6.0\refint\Domain.Cqrs.Api.dll
+C:\Users\admin\Desktop\Projects\Test.Cqrs.Api\Domain.Cqrs.Api\obj\Debug\net6.0\Domain.Cqrs.Api.pdb
+C:\Users\admin\Desktop\Projects\Test.Cqrs.Api\Domain.Cqrs.Api\obj\Debug\net6.0\ref\Domain.Cqrs.Api.dll

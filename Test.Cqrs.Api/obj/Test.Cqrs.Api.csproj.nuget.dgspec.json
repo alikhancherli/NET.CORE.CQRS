@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Test.Cqrs.Api\\Test.Cqrs.Api.csproj": {}
+    "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Test.Cqrs.Api\\Test.Cqrs.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\AppService.Cqrs.Api\\AppService.Cqrs.Api.csproj": {
+    "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\AppService.Cqrs.Api\\AppService.Cqrs.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\AppService.Cqrs.Api\\AppService.Cqrs.Api.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\AppService.Cqrs.Api\\AppService.Cqrs.Api.csproj",
         "projectName": "AppService.Cqrs.Api",
-        "projectPath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\AppService.Cqrs.Api\\AppService.Cqrs.Api.csproj",
-        "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\AppService.Cqrs.Api\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\AppService.Cqrs.Api\\AppService.Cqrs.Api.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\AppService.Cqrs.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj": {
-                "projectPath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj"
+              "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj"
               }
             }
           }
@@ -48,6 +48,18 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[11.0.1, )"
+            },
+            "GraphQL": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            },
+            "GraphQL.Server.Transports.AspNetCore.SystemTextJson": {
+              "target": "Package",
+              "version": "[5.2.1, )"
+            },
+            "GraphQL.Server.Ui.Playground": {
+              "target": "Package",
+              "version": "[6.1.0, )"
             }
           },
           "imports": [
@@ -65,21 +77,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj": {
+    "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj",
         "projectName": "Domain.Cqrs.Api",
-        "projectPath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj",
-        "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Domain.Cqrs.Api\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Domain.Cqrs.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,21 +138,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Infra.Cqrs.Api\\Infra.Cqrs.Api.csproj": {
+    "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Infra.Cqrs.Api\\Infra.Cqrs.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Infra.Cqrs.Api\\Infra.Cqrs.Api.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Infra.Cqrs.Api\\Infra.Cqrs.Api.csproj",
         "projectName": "Infra.Cqrs.Api",
-        "projectPath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Infra.Cqrs.Api\\Infra.Cqrs.Api.csproj",
-        "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Infra.Cqrs.Api\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Infra.Cqrs.Api\\Infra.Cqrs.Api.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Infra.Cqrs.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -155,8 +167,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\AppService.Cqrs.Api\\AppService.Cqrs.Api.csproj": {
-                "projectPath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\AppService.Cqrs.Api\\AppService.Cqrs.Api.csproj"
+              "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\AppService.Cqrs.Api\\AppService.Cqrs.Api.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\AppService.Cqrs.Api\\AppService.Cqrs.Api.csproj"
               }
             }
           }
@@ -185,21 +197,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Test.Cqrs.Api\\Test.Cqrs.Api.csproj": {
+    "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Test.Cqrs.Api\\Test.Cqrs.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Test.Cqrs.Api\\Test.Cqrs.Api.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Test.Cqrs.Api\\Test.Cqrs.Api.csproj",
         "projectName": "Test.Cqrs.Api",
-        "projectPath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Test.Cqrs.Api\\Test.Cqrs.Api.csproj",
-        "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Test.Cqrs.Api\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Test.Cqrs.Api\\Test.Cqrs.Api.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Test.Cqrs.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -214,8 +226,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Infra.Cqrs.Api\\Infra.Cqrs.Api.csproj": {
-                "projectPath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Infra.Cqrs.Api\\Infra.Cqrs.Api.csproj"
+              "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Infra.Cqrs.Api\\Infra.Cqrs.Api.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Infra.Cqrs.Api\\Infra.Cqrs.Api.csproj"
               }
             }
           }
@@ -261,7 +273,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

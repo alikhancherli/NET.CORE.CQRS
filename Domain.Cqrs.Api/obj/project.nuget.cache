@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "NVOzoCun1pEgFX1W371Nz9hufA/w1Jn5NpyzYWTLALkHCWtNjXCHsbja0iUFLV/wtM8ujnyDmTR97xLGHv/PxQ==",
+  "dgSpecHash": "JdDsueteywEEacp8bsgw7ARfvs27vJNt/f+qOn3gm7ayTv/AeYcLUgdF3g0EGbDvHXXU5y4eVsjvjh+WEcJ+7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Ali\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
-    "C:\\Users\\Ali\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
   ],
   "logs": []
 }
