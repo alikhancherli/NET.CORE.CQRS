@@ -25,6 +25,15 @@ namespace Domain.Cqrs.Api.Entities.User
             string family,
             string nationalCode)
         {
+            if(string.IsNullOrWhiteSpace(name))
+                throw new ArgumentNullException(nameof(name));
+
+            else if (string.IsNullOrWhiteSpace(family))
+                throw new ArgumentNullException(nameof(family));
+
+            else if (string.IsNullOrWhiteSpace(nationalCode))
+                throw new ArgumentNullException(nameof(nationalCode));
+
             return new Users()
             {
                 Name = name,

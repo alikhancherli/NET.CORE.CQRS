@@ -3,7 +3,5 @@ using MediatR;
 
 namespace AppService.Cqrs.Api.Queries.User
 {
-    public sealed class GetUserListQuery : IRequest<List<UserDto>>
-    {
-    }
+    public record GetUserListQuery() : IRequest<List<UserDto>>;
 }

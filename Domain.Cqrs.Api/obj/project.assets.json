@@ -63,19 +63,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ali\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj",
       "projectName": "Domain.Cqrs.Api",
-      "projectPath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj",
-      "packagesPath": "C:\\Users\\Ali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ali\\Desktop\\Csharp\\Test.Cqrs.Api\\Domain.Cqrs.Api\\obj\\",
+      "projectPath": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Domain.Cqrs.Api\\Domain.Cqrs.Api.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\Projects\\Test.Cqrs.Api\\Domain.Cqrs.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -122,7 +122,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
